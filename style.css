@@ -1,0 +1,147 @@
+#welcome {
+    text-align: center;
+    background: Linear-gradient(#eeaeca 0%, #94bbe9 100%);
+}
+
+.profile {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 50px;
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 30%;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: cursive;
+    font-weight: 300;
+    text-shadow: 2px 2px #F8BBDO;
+}
+
+p {
+    font-size: 18px;
+    padding: 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+#hobby {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+h2 {
+    font-size: 20px;
+    line-height: 1.2;
+    font-family: monospace;
+}
+
+h3 {
+    font-size: 20px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+    width: 400px;
+}
+}
+
+.parellex-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#bio {
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+    background-color: #9FA8DA;
+}
+
+.menu {
+    width: 100%;
+    margin-top: 0px;
+    position: fixed;
+    background: white;
+    top: 0px;
+    z-index: 10;
+}
+
+.link {
+    display: inline;
+    font-family: fantasy;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+#Golu {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 50px;
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 30%;
+    border: 4px solic crimson;
+}
+
+a {
+    text-decoration: none;
+    text-decoration-color: cornflowerblue;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: cursive;
+   
+}
+
+html {
+    scroll-behavior: smooth;
+    text-align: center;
+    background: Linear-gradient(#eeaeca 0%, #94bbe9 100%);
+}
+
+#picture {
+    border-radius: 20px;
+    border: 8px solid black;
+    transition: transform .2s;
+}
+
+#pic {
+    border-radius: 20px;
+    border: 8px solid black;
+    transition: transform .2s;
+}
+
+#pic1 {
+    border-radius: 20px;
+    border: 8px solid black;
+    transition: transform .2s;
+}
+
+#pic1:hover {
+    transform: scale(0.9);
+}
+
+#pic:hover {
+    transform: scale(0.9);
+}
+
+#picture:hover {
+    transform: scale(0.9);
+}
+center{
+    background-color: aquamarine;
+}
+        
+
