@@ -23,7 +23,7 @@ h1 {
 p {
     font-size: 18px;
     padding: 20px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Cinzel Decorative', cursive;
 }
 
 #hobby {
@@ -69,17 +69,21 @@ hr {
     width: 100%;
     margin-top: 0px;
     position: fixed;
-    background: white;
+    background-color: darksalmon;
     top: 0px;
     z-index: 10;
+    font-family: 'Cinzel Decorative';
+     transition: transform .2s;
 }
+
 
 .link {
     display: inline;
-    font-family: fantasy;
     padding-left: 33px;
     padding-right: 25px;
     font-size: 20px;
+    color: white;
+     transform: scale(0.9);
 }
 
 .link:hover {
@@ -102,7 +106,7 @@ a {
     font-size: 20px;
     font-weight: 400;
     font-family: cursive;
-   
+
 }
 
 html {
@@ -138,10 +142,5 @@ html {
 }
 
 #picture:hover {
-    transform: scale(0.9);
-}
-center{
-    background-color: aquamarine;
-}
+    transform: scale(0.9)}
         
-
